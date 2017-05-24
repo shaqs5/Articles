@@ -16,6 +16,7 @@ C:\Program Files\7-Zip> 7z a C:\temp\test.zip C:\somefolder\test.txt
 Where “a” is for Add file to archive and “C:\temp\test.zip” is the target path and filename for zip output. Last but not least is the source path and filename.
 
 ##How to use 7-zip
+
 Below code shows how to use 7-zip in your VB.net desktop application.
 
 ```
@@ -34,6 +35,7 @@ End Class
 ```
 
 ##More details
+
 For more details on usage, commands and switches please visit FAQ on [7zip.org] (http://7zip.org/)
 
 ## Authors
