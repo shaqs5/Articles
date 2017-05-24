@@ -1,4 +1,4 @@
-# Using 7zip to zip files by implementing windows command prompt processor in your VB Program
+# Using 7zip to zip files in your VB Program
 
 Before you could start please download and install the 7-zip from [http://www.7-zip.org/](http://www.7-zip.org/)
 You can install in any path you like I installed it in “C:\Program Files\7-Zip”
@@ -8,7 +8,7 @@ You can install in any path you like I installed it in “C:\Program Files\7-Zip
 C:\program files\7-Zip> 7z <command> [<switches>...] <archive_name> [<file_names>...]
 ```
 
-## Example:
+## Example
 
 ```
 C:\Program Files\7-Zip> 7z a C:\temp\test.zip C:\somefolder\test.txt
@@ -38,7 +38,7 @@ End Class
 
 For more details on usage, commands and switches please visit FAQ on [7zip.org](http://7zip.org)
 
-## Authors
+## Author
 
 * **Shaq**
 
