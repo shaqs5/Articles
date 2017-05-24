@@ -36,7 +36,7 @@ End Class
 
 ## More details
 
-For more details on usage, commands and switches please visit FAQ on [7zip.org] (http://7zip.org/)
+For more details on usage, commands and switches please visit FAQ on [7zip.org](http://7zip.org)
 
 ## Authors
 
