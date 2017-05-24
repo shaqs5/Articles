@@ -1,6 +1,6 @@
 # Using 7zip to zip files in your VB Program
 
-Before you could start please download and install the 7-zip from [http://www.7-zip.org/](http://www.7-zip.org/)
+Before you could start please download and install the 7-zip from [7-zip.org](http://www.7-zip.org/)
 You can install in any path you like I installed it in “C:\Program Files\7-Zip”
 7-zip in the command prompt is used as below 
 
